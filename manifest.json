@@ -2,8 +2,8 @@
     "description": {
         "name": "CreamSoda",
         "line1": "The smooth taste of NEO.",
-        "line2": "By valeofvoid",
-        "packVersion": "v1.0, for BTA 7.1",
+        "line2": "By valeofvoid. [Version 1.0]",
+        "packVersion": ".1",
         "format": 1
     }
 }
